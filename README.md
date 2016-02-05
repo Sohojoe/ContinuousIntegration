@@ -1,5 +1,7 @@
 # ContinuousIntegration
-Build Status: [![Build status](https://ci.appveyor.com/api/projects/status/w752ll1uen9kvl5l?svg=true)](https://ci.appveyor.com/project/Sohojoe/continuousintegration)
+Master Status: [![Build status](https://ci.appveyor.com/api/projects/status/xoly5ufr7oltmqwb/branch/master?svg=true&retina=true)](https://ci.appveyor.com/project/Sohojoe/continuousintegration/branch/master)
+
+Last Build: [![Build status](https://ci.appveyor.com/api/projects/status/xoly5ufr7oltmqwb?svg=true&retina=true)](https://ci.appveyor.com/project/Sohojoe/continuousintegration)
 
 testing Continuous Integration using appVeyor
 
