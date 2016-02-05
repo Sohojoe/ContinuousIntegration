@@ -24,7 +24,6 @@ namespace ContinuousIntegration.Tests
 			Assert.AreEqual (10, book.Pages);
 			book.Pages++;
 			Assert.AreEqual (11, book.Pages);
-			Assert ("test failing");
 		}
 
 	}
