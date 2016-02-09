@@ -25,7 +25,7 @@ namespace ContinuousIntegration.Tests
 			book.Pages++;
 			Assert.AreEqual (11, book.Pages);
 		}
-
+		a buid error
 	}
 }
 
